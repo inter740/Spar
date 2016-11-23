@@ -1,0 +1,8 @@
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.csprojResolveAssemblyReference.cache
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.exe
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\obj\Debug\TestTask.pdb
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\bin\Debug\Newtonsoft.Json.dll
+c:\users\inter\documents\visual studio 2015\Projects\TestTask\TestTask\bin\Debug\Newtonsoft.Json.xml

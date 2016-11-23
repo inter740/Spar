@@ -1,0 +1,9 @@
+﻿{"Salary":15000.0,"Id":1,"Name":"Андрей","Surname":"Григорьев","PaymentMethod":1,"AverageMonthlySalary":15000.0}
+{"HourlyRate":200.0,"Id":2,"Name":"Петр","Surname":"Петрович","PaymentMethod":0,"AverageMonthlySalary":33280.0}
+{"Salary":35000.0,"Id":3,"Name":"Павел","Surname":"Артьемьев","PaymentMethod":1,"AverageMonthlySalary":35000.0}
+{"Salary":23000.0,"Id":4,"Name":"Афанасий","Surname":"Прылюк","PaymentMethod":1,"AverageMonthlySalary":23000.0}
+{"HourlyRate":120.0,"Id":5,"Name":"Григорий ","Surname":"Прытков","PaymentMethod":0,"AverageMonthlySalary":19968.0}
+{"HourlyRate":125.4,"Id":6,"Name":"Федор","Surname":"Ивашко","PaymentMethod":0,"AverageMonthlySalary":20866.56}
+{"Salary":15000.0,"Id":7,"Name":"Олег","Surname":"Гаврлюк","PaymentMethod":1,"AverageMonthlySalary":15000.0}
+{"Salary":15000.0,"Id":8,"Name":"Максим","Surname":"Куланский","PaymentMethod":1,"AverageMonthlySalary":15000.0}
+{"Salary":15000.0,"Id":9,"Name":"Андрей","Surname":"Филин","PaymentMethod":1,"AverageMonthlySalary":15000.0}
